@@ -1,4 +1,4 @@
-# Docker Best Practices
+# Docker's Best Practices
 
 ## Stable Builds with Specific Tags
 
